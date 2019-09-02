@@ -2,7 +2,7 @@
 
 ## 学術論文誌/Journal Paper
 1. Yasumoto, S., Andrew P.J., Oyoshi, K., __Kanasugi, H.__, Sekimoto, Y., Shibasaki, R., Watanabe, C., "Heat exposure assessment based on individual daily mobility patterns in Dhaka, Bangladesh", Computers, Environment and Urban Systems, Volume. 77, 2019.09, https://doi.org/10.1016/j.compenvurbsys.2019.101367
-1. __金杉洋__, 瀬戸寿一，関本義秀，柴崎亮介, "オープンストリートマップ道路データとデジタル道路地図の比較　- 位置と完全性に着目して -", GIS-理論と応用, Vol.27, No.1, pp.43-48, 2019.06
+1. __金杉洋__, 瀬戸寿一，関本義秀，柴崎亮介, "オープンストリートマップ道路データとデジタル道路地図の比較　- 位置と完全性に着目して -", GIS-理論と応用, Vol.27, No.1, pp.43-48, 2019.06, [data](https://github.com/KNSG/OSM-assessment)
 1. Batran, M., Arai, A., __Kanasugi, H.__, Cumbane, S., Grachane, C., Sekimoto, Y. and Shibasaki, R., "Urban Travel Time Estimation in Greater Maputo Using Mobile Phone Big Data", 2018 IEEE 20th Conference on Business Informatics (CBI), pp. 2018.09.03, https://doi.org/10.1109/CBI.2018.10057
 1. Batran, M., Mejia, M. G., __Kanasugi, H.__, Sekimoto, Y., & Shibasaki, R., "Inferencing Human Spatiotemporal Mobility in Greater Maputo via Mobile Phone Big Data Mining", ISPRS International Journal of Geo-Information(IJGI), Vol.7, No.7, 2018.06.30, https://doi.org/10.3390/ijgi7070259
 1. 小川芳樹，秋山祐樹，__金杉 洋__，柴崎 亮介, "ジオビッグデータを用いた多様なシナリオに基づく南海トラフ地震津波の人的被害推定―高知市周辺を対象として―", E-journal GEO, Vol.13, No.1, pp.140-155, 2018.04.13

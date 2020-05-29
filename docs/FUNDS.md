@@ -1,10 +1,11 @@
 # FUNDS
 
 ## 研究費/Research Funds
+1. *2020.04 -*, 文部科学省科学研究費補助金（基盤研究C）, 分担, Mapping seasonal demography and mobility for malaria elimination
 1. *2018.09 -*, 科学技術振興機構(JST) 社会技術研究開発センター(RISTEX) 人と情報のエコシステム(HITE), 実施者, データポータビリティ時代におけるパーソナル情報のワイズ・ユース実現支援プラットフォームに関する研究
 1. *2018.07 -*, 文部科学省科学研究費補助金（基盤研究B：特設分野）, 分担, クラウドソース型地理情報のトラスト：網羅性と正確性，ダイバーシティに着目して
 1. *2018.04 -*, 文部科学省科学研究費補助金（基盤研究C）, 代表, オープンストリートマップにおける道路データの品質推定手法の構築
-1. *2016.04 -*, 文部科学省科学研究費補助金（基盤研究B）, 分担, 携帯通信履歴のタイプに応じた安全・オープンな人流再現手法の体系化
+1. *2016.04 - 2020.03*, 文部科学省科学研究費補助金（基盤研究B）, 分担, 携帯通信履歴のタイプに応じた安全・オープンな人流再現手法の体系化
 1. *2018.07 - 2019.03*, 中部大学問題複合体を対象とするデジタルアース共同利用・共同研究拠点 特定課題研究(IDEAS201807), 分担, スキー場における動的地図制作のための基盤データ開発
 1. *2017.06 - 2018.12*, Bill & Melinda Gates Foundation, GRAND CHALLENGES EXPLORATIONS, 分担, Dynamic Census Project for Malaria Elimination in Mozambique
 1. *2017.03 - 2018.10*, The World Bank, the Global Partnership for Sustainable Development Data(GPSDD), 分担, Activity 10, Dynamic Census

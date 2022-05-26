@@ -1,7 +1,7 @@
 # Introduction
 - *Name* : 金杉洋／Hiroshi KANASUGI
-- *Affilication* : 東京大学　空間情報科学研究センター／Center for Spatial Information Science, the University of Tokyo
-- *Post* : 特任研究員／Project Researcher
+  - *Post* : 東京大学　空間情報科学研究センター 協力研究員／Center for Spatial Information Science, the University of Tokyo, Visiting Research Associate
+  - *Post* : 東京大学　生産技術研究所 協力研究員／Institute of Industrial Science, the University of Tokyo, Visiting Research Associate
 
 # CV
 - _2019.11_ - : 東京大学　空間情報科学研究センター　協力研究員

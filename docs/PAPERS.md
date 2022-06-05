@@ -1,6 +1,7 @@
 # Achivements
 
 ## 学術論文誌/Journal Paper
+1. Yuma Tsumura, Yoshihisa Asadaa, Hiroshi Kanasugi, Ayumi Arai, Ryosuke Shibasaki, Hirohisa Kawaguchi, Kaoru Yamada, "Examining potentials and practical constraints of mobile phone data for improving transport planning in developing countries", Asian Transport Studies, Volume 8, 2022,  https://doi.org/10.1016/j.eastsj.2021.100043
 1. Seto, T., __Kanasugi, H.__, Nishimura, Y. "Quality Verification of Volunteered Geographic Information Using OSM Notes Data in a Global Context",  ISPRS Int. J. Geo-Inf. 2020, 9, 372. 
 1. Yasumoto, S., Andrew P.J., Oyoshi, K., __Kanasugi, H.__, Sekimoto, Y., Shibasaki, R., Watanabe, C., "Heat exposure assessment based on individual daily mobility patterns in Dhaka, Bangladesh", Computers, Environment and Urban Systems, Volume. 77, 2019.09, https://doi.org/10.1016/j.compenvurbsys.2019.101367
 1. __金杉洋__, 瀬戸寿一，関本義秀，柴崎亮介, "オープンストリートマップ道路データとデジタル道路地図の比較　- 位置と完全性に着目して -", GIS-理論と応用, Vol.27, No.1, pp.43-48, 2019.06, [data](https://github.com/KNSG/OSM-assessment)
